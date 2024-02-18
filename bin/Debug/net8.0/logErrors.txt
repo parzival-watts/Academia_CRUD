@@ -1,0 +1,28 @@
+2024-02-06 04:25:38.8227|INFO|Academia.Program|NLog is ready to log!
+2024-02-06 04:25:45.3305|ERROR|Academia.Controllers.AlunosController|Erro ao deletar aluno com ID 1.|System.Exception: Aluno para o ID: 1 não foi encontrado no banco de dados.
+   at Academia.Repositorys.AlunosRepository.ApagarAluno(Int32 id) in D:\MARCUS\VOLVO\Academia_CRUD\Repositorys\AlunosRepository.cs:line 61
+   at Academia.Controllers.AlunosController.DeletarAluno(Int32 id) in D:\MARCUS\VOLVO\Academia_CRUD\Controllers\AlunosController.cs:line 91
+2024-02-06 04:28:33.9176|ERROR|Academia.Controllers.AlunosController|Erro ao deletar aluno com ID 1.|System.Exception: Aluno para o ID: 1 não foi encontrado no banco de dados.
+   at Academia.Repositorys.AlunosRepository.ApagarAluno(Int32 id) in D:\MARCUS\VOLVO\Academia_CRUD\Repositorys\AlunosRepository.cs:line 61
+   at Academia.Controllers.AlunosController.DeletarAluno(Int32 id) in D:\MARCUS\VOLVO\Academia_CRUD\Controllers\AlunosController.cs:line 91
+2024-02-06 04:28:42.2500|ERROR|Academia.Controllers.AlunosController|Erro ao deletar aluno com ID 1.|System.Exception: Aluno para o ID: 1 não foi encontrado no banco de dados.
+   at Academia.Repositorys.AlunosRepository.ApagarAluno(Int32 id) in D:\MARCUS\VOLVO\Academia_CRUD\Repositorys\AlunosRepository.cs:line 61
+   at Academia.Controllers.AlunosController.DeletarAluno(Int32 id) in D:\MARCUS\VOLVO\Academia_CRUD\Controllers\AlunosController.cs:line 91
+2024-02-06 04:28:42.6800|ERROR|Academia.Controllers.AlunosController|Erro ao deletar aluno com ID 1.|System.Exception: Aluno para o ID: 1 não foi encontrado no banco de dados.
+   at Academia.Repositorys.AlunosRepository.ApagarAluno(Int32 id) in D:\MARCUS\VOLVO\Academia_CRUD\Repositorys\AlunosRepository.cs:line 61
+   at Academia.Controllers.AlunosController.DeletarAluno(Int32 id) in D:\MARCUS\VOLVO\Academia_CRUD\Controllers\AlunosController.cs:line 91
+2024-02-06 04:28:42.8041|ERROR|Academia.Controllers.AlunosController|Erro ao deletar aluno com ID 1.|System.Exception: Aluno para o ID: 1 não foi encontrado no banco de dados.
+   at Academia.Repositorys.AlunosRepository.ApagarAluno(Int32 id) in D:\MARCUS\VOLVO\Academia_CRUD\Repositorys\AlunosRepository.cs:line 61
+   at Academia.Controllers.AlunosController.DeletarAluno(Int32 id) in D:\MARCUS\VOLVO\Academia_CRUD\Controllers\AlunosController.cs:line 91
+2024-02-06 04:28:43.0222|ERROR|Academia.Controllers.AlunosController|Erro ao deletar aluno com ID 1.|System.Exception: Aluno para o ID: 1 não foi encontrado no banco de dados.
+   at Academia.Repositorys.AlunosRepository.ApagarAluno(Int32 id) in D:\MARCUS\VOLVO\Academia_CRUD\Repositorys\AlunosRepository.cs:line 61
+   at Academia.Controllers.AlunosController.DeletarAluno(Int32 id) in D:\MARCUS\VOLVO\Academia_CRUD\Controllers\AlunosController.cs:line 91
+2024-02-06 04:28:43.1762|ERROR|Academia.Controllers.AlunosController|Erro ao deletar aluno com ID 1.|System.Exception: Aluno para o ID: 1 não foi encontrado no banco de dados.
+   at Academia.Repositorys.AlunosRepository.ApagarAluno(Int32 id) in D:\MARCUS\VOLVO\Academia_CRUD\Repositorys\AlunosRepository.cs:line 61
+   at Academia.Controllers.AlunosController.DeletarAluno(Int32 id) in D:\MARCUS\VOLVO\Academia_CRUD\Controllers\AlunosController.cs:line 91
+2024-02-06 04:30:45.4216|ERROR|Academia.Controllers.AlunosController|Erro ao deletar aluno com ID 1.|System.Exception: Aluno para o ID: 1 não foi encontrado no banco de dados.
+   at Academia.Repositorys.AlunosRepository.ApagarAluno(Int32 id) in D:\MARCUS\VOLVO\Academia_CRUD\Repositorys\AlunosRepository.cs:line 61
+   at Academia.Controllers.AlunosController.DeletarAluno(Int32 id) in D:\MARCUS\VOLVO\Academia_CRUD\Controllers\AlunosController.cs:line 91
+2024-02-06 04:31:10.6444|ERROR|Academia.Controllers.AlunosController|Erro ao deletar aluno com ID 1.|System.Exception: Aluno para o ID: 1 não foi encontrado no banco de dados.
+   at Academia.Repositorys.AlunosRepository.ApagarAluno(Int32 id) in D:\MARCUS\VOLVO\Academia_CRUD\Repositorys\AlunosRepository.cs:line 61
+   at Academia.Controllers.AlunosController.DeletarAluno(Int32 id) in D:\MARCUS\VOLVO\Academia_CRUD\Controllers\AlunosController.cs:line 91
